@@ -11,14 +11,16 @@ session_start();
     <title>Platino Island</title>
 </head>
 <body>
-    <div class="nav-bar">
-        <?php include('src/includes/header.php')?>
-    </div>
+    <?php include('includes/header.php')?>
+
+    <?php include('includes/nav.php') ?>
 
     <p>This is Platino Island</p>
 
 
-    <?php include('src/includes/footer.php')?>
+    <footer>
+        <?php include('includes/footer.php')?>
+    </footer>
 </body>
 
 
