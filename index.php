@@ -11,7 +11,16 @@ session_start();
     <title>Platino Island</title>
 </head>
 <body>
-    This is Platino Island
+    <div class="nav-bar">
+        <?php include('src/includes/header.php')?>
+    </div>
+
+    <p>This is Platino Island</p>
+
+
+    <?php include('src/includes/footer.php')?>
 </body>
+
+
 
 
