@@ -7,3 +7,9 @@ session_start();
 <head>
     <title>Platino Island</title>
 </head>
+<body>
+
+</body>
+
+
+</html>
