@@ -6,6 +6,11 @@
     margin-top: -200px;
 }
 
+.full-height {
+    min-height: calc(100vh - 120px);
+    background-color: rgb(105, 117, 105);
+}
+
 #footer {
     position: absolute;
     width: 100%;
