@@ -18,9 +18,13 @@ session_start();
     <div class="uk-container full-height" style="padding: 5vh 2vw;">
         <h1 class="uk-heading uk-text-center">About Us</h1>
         <div class="uk-section-default">
-            <div class="uk-section uk-light uk-background-cover" style="background-image: url(img/about-us-background.jpg">
-                <div class="uk-panel">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <div class="uk-section uk-background-cover" style="background-image: url(img/about-us-back.jpg">
+                <div class="uk-container">
+                    <img class="uk-align-right uk-margin-remove-adjacent" src="img/about-us-img.jpeg" width="500" height="1000">
+                    <p>PLATINO ISLAND is a new brand created in 2020 in Melbourne, focusing on sensitive skin cosmetics. Cosmetics was also becoming increasingly importatn, however whilst people with sensitive skin were trying to avoid toxins and harsh chemicals during their make-up routine, they weren't spending the same energy selecting the best make-up. But don't worry, PLATINO ISLAND prepares you 100% natural ingredients make-up solutions without unnecessary chemicals, synthetic ingredients or preservatives often found in cosmetics.</p>
+                    <p>Healthy skin starts with healthy ingredients. We've foraged the world for the safest organic ingredients screened in our labs by our scientists and doctors to slect those that are clean, effective, and high-performing, yet gentle on the sensitive skin.</p>
+                    <p>PLATINO ISLAND is perfect for your sensitive skin inside and out.</p>
+                    <p>Team Optimal Bears</p>
                 </div>
             </div>
         </div>
