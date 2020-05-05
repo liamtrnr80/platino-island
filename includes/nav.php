@@ -9,7 +9,7 @@
     <div class="uk-navbar-center">
         <ul class="uk-navbar-nav">
             <li><a href="">Shop</a></li>
-            <li><a href="">About Us</a></li>
+            <li><a href="about-us.php">About Us</a></li>
             <li><a href="">Contact Us</a></li>
             <li><a href="">Discover</a></li>
         </ul>
