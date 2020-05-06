@@ -33,7 +33,7 @@ session_start();
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
                     </div>
                     <div class="uk-card-footer">
-                        <a href="#" class="uk-button uk-button-text">Read more</a>
+                        <a href="flawless-liquid-foundation.php" class="uk-button uk-button-text">Read more</a>
                     </div>
                 </div>
                 <div>
