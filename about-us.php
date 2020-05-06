@@ -15,7 +15,7 @@ session_start();
 <body>
     <?php include_once('includes/nav.php'); ?>
 
-    <div class="uk-container full-height" style="padding: 5vh 2vw;">
+    <div class="uk-container full-height">
         <h1 class="uk-heading uk-text-center">About Us</h1>
         <div class="uk-section-default">
             <div class="uk-section uk-background-cover" style="background-image: url(img/about-us-back.jpg">
