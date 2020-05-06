@@ -43,8 +43,8 @@ session_start();
                 <div class="uk-card uk-card-default uk-card-small uk-card-body">
                     <h3 class="uk-card-title">ADDRESS</h3>
                     <img class="uk-align-right uk-margin-remove-adjacent" src="img/map.png" width="150">
-                    <p>Service@platinoisland.com.au</p>
-                    <p>To reach our Online Sales Associates by email, click "Email us" to provide details and your contact information.</p>
+                    <p>PLATINO ISLAND, Australia Pty Ltd, Level 15, 250 Collins</p>
+                    <p>Street, Melbourne, VIC 3000, Australia</p>
                 </div>
             </div>
         </div>
