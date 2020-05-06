@@ -2,15 +2,15 @@
     <!-- Nav Left -->
     <div class="uk-navbar-left">
         <ul class="uk-navbar-nav">
-            <li><a href="">Home</a></li>
+            <li><a href="index.php">Home</a></li>
         </ul>
     </div>
     <!-- Nav Center -->
     <div class="uk-navbar-center">
         <ul class="uk-navbar-nav">
-            <li><a href="">Shop</a></li>
+            <li><a href="shop.php">Shop</a></li>
             <li><a href="about-us.php">About Us</a></li>
-            <li><a href="">Contact Us</a></li>
+            <li><a href="contact-us.php">Contact Us</a></li>
             <li><a href="">Discover</a></li>
         </ul>
     </div>

@@ -18,7 +18,7 @@ session_start();
     <?php include_once('includes/nav.php'); ?>
     
     <div class="full-height">
-
+        
     </div>
 
     <footer>
