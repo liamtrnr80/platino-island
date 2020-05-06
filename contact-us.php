@@ -14,15 +14,33 @@ session_start();
     <?php include_once('includes/nav.php'); ?>
     
     <div class="uk-container full-height">
-        <h1 class="uk-heading uk-text-center">Contact Us</h1>
-        <div class="uk-section-default">
-            <div class="uk-section uk-background-cover" style="background-image: url(img/about-us-back.jpg">
-                <div class="uk-container">
-                    <img class="uk-align-right uk-margin-remove-adjacent" src="img/about-us-img.jpeg" width="300">
-                    <p>PLATINO ISLAND is a new brand created in 2020 in Melbourne, focusing on sensitive skin cosmetics. Cosmetics was also becoming increasingly importatn, however whilst people with sensitive skin were trying to avoid toxins and harsh chemicals during their make-up routine, they weren't spending the same energy selecting the best make-up. But don't worry, PLATINO ISLAND prepares you 100% natural ingredients make-up solutions without unnecessary chemicals, synthetic ingredients or preservatives often found in cosmetics.</p>
-                    <p>Healthy skin starts with healthy ingredients. We've foraged the world for the safest organic ingredients screened in our labs by our scientists and doctors to slect those that are clean, effective, and high-performing, yet gentle on the sensitive skin.</p>
-                    <p>PLATINO ISLAND is perfect for your sensitive skin inside and out.</p>
-                    <p>Team Optimal Bears</p>
+        <div class="uk-child-width-1-1@s" uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-card-body">
+                    <h3 class="uk-card-title">EMAIL</h3>
+                    <p>Service@platinoisland.com.au</p>
+                    <p>To reach our Online Sales Associates by email, click "Email us" to provide details and your contact information.</p>
+                    <button class="uk-button uk-button-default uk-align-right">Email us</button>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-card-body">
+                    <h3 class="uk-card-title">PHONE NUMBER</h3>
+                    <p>Our Online Sales Associates are available Monday to Saturday, from 9AM - 6PM (AEST), excluding holidays.</p>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-card-body">
+                    <h3 class="uk-card-title">LIVE CHAT</h3>
+                    <p>Chat with a live associat Monday to Saturday, between 9AM - 6PM (AEST)</p>
+
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-card-body">
+                    <h3 class="uk-card-title">ADDRESS</h3>
+                    <p>Service@platinoisland.com.au</p>
+                    <p>To reach our Online Sales Associates by email, click "Email us" to provide details and your contact information.</p>
                 </div>
             </div>
         </div>
