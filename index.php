@@ -17,8 +17,22 @@ session_start();
 <body>
     <?php include_once('includes/nav.php'); ?>
     
-    <div class="full-height">
-        
+    <div class="uk-container full-height">
+        <div uk-slideshow>
+            <ul class="uk-slideshow-items">
+                <li>
+                    <img src="img/Main1.jpeg" alt="" uk-cover>
+                </li>
+                <li>
+                    <img src="img/Main2.jpeg" alt="" uk-cover>
+                </li>
+                <li>
+                    <img src="img/Main3.jpeg" alt="" uk-cover>
+                </li>
+            </ul>
+            <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+            <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+        </div>
     </div>
 
     <footer>
