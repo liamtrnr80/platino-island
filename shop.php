@@ -19,31 +19,56 @@ session_start();
                 <h2>Shop</h2>
             </div>
             
-            <div class="uk-grid-match uk-child-width-expand@m" uk-grid>
-                <div class= >
-                    <div class="uk-card uk-card-body uk-card-secondary uk-light">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+            <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                    <div class="uk-card-media-top">
+                        <img class="uk-align-center" src="img/1FLAWLESS LIQUID FOUNDATION.jpg" alt="" width="250" height="250">
                     </div>
-                    <div class="uk-card-footer">
-                        <a href="product-template.php" class="uk-button uk-button-text">Read more</a>
+                    <div class="uk-card-body">
+                        <div class="uk-text-small">Flawless Liquid Foundation</div>
+                        <div class="uk-text-meta">$20.00</div>
                     </div>
-                </div>
-                <div>
-                    <div class="uk-card uk-card-body uk-card-secondary uk-light">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                </a>
+
+                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                    <div class="uk-card-media-top">
+                        <img class="uk-align-center" src="img/2LUMINOUS SHEER LIQUID FOUNDATION.jpg" alt="" width="250" height="250">
                     </div>
-                    <div class="uk-card-footer">
-                        <a href="flawless-liquid-foundation.php" class="uk-button uk-button-text">Read more</a>
+                    <div class="uk-card-body">
+                        <div class="uk-text-small">Luminous Sheer Liquid Foundation</div>
+                        <div class="uk-text-meta">$20.00</div>
                     </div>
-                </div>
-                <div>
-                    <div class="uk-card uk-card-body uk-card-secondary uk-light">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                </a>
+
+                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                    <div class="uk-card-media-top">
+                        <img class="uk-align-center" src="img/3ORGANIC WEAR SILK FOUNDATION.jpg" alt="" width="250" height="250">
                     </div>
-                    <div class="uk-card-footer">
-                        <a href="#" class="uk-button uk-button-text">Read more</a>
+                    <div class="uk-card-body">
+                        <div class="uk-text-small">Organic Wear Silk Foundation</div>
+                        <div class="uk-text-meta">$20.00</div>
                     </div>
-                </div>
+                </a>
+
+                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                    <div class="uk-card-media-top">
+                        <img class="uk-align-center" src="img/4SHEER GLOW BB CREAM.jpg" alt="" width="250" height="250">
+                    </div>
+                    <div class="uk-card-body">
+                        <div class="uk-text-small">Sheer Glob BB Cream</div>
+                        <div class="uk-text-meta">$20.00</div>
+                    </div>
+                </a>
+
+                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                    <div class="uk-card-media-top">
+                        <img class="uk-align-center" src="img/5NATURAL MINERAL COVER FOUNDATION.jpg" alt="" width="250" height="250">
+                    </div>
+                    <div class="uk-card-body">
+                        <div class="uk-text-small">Natural Mineral Cover Foundation</div>
+                        <div class="uk-text-meta">$20.00</div>
+                    </div>
+                </a>
             </div>
         </div>        
     </div>

@@ -11,7 +11,7 @@ session_start();
 </head>
 <style>
     .full-height {
-        min-height: calc(100vh - (80px + 40px));
+        min-height: calc(100vh - (100px + 40px));
 }
 </style>
 <body>
@@ -45,41 +45,50 @@ session_start();
             </div>
         </div>
         <div class="container">
+            <p></p>
             <h3 class="uk-heading-small uk-text-center">#MAKE-UP THAT'S PERFECT FOR YOU</h3>
             <div class="uk-position-relative uk-visible-toggle" tabindex="-1" uk-slider="autoplay: true">
                 <ul class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@m uk-grid">
                     <li>
-                        <div class="uk-panel" width="205px" height="205px">
-                            <img src="img/Cactus Flower.jpg" alt="" width="205px"style="border-radius: 50%; height: 205px">
+                        <div class="uk-panel">
+                            <img class="uk-border-circle" width="205" height="205" src="img/Cactus Flower.jpg">
+                            <!-- <img src="img/Cactus Flower.jpg" alt="" width="205px"style="border-radius: 50%; height: 205px"> -->
                         </div>
                     </li>
                     <li>
-                        <div class="uk-panel" width="205px" height="205px">
-                            <img src="img/Chamomile-oil-.jpg" alt="" width="205px" style="border-radius: 50%; height: 205px">
+                        <div class="uk-panel">
+                            <img class="uk-border-circle" width="205" height="205" src="img/Chamomile-oil-.jpg" style="height: 205;">
                         </div>
                     </li>
                     <li>
-                        <div class="uk-panel" width="205px" height="205px">
-                            <img src="img/Hyaluronic-Acid-.jpg" alt="" width="205px" style="border-radius: 50%; height: 205px">
+                        <div class="uk-panel">
+                            <img class="uk-border-circle" width="205" height="205" src="img/Hyaluronic-Acid-.jpg" style="height: 205;">
                         </div>
                     </li>
                     <li>
-                        <div class="uk-panel" width="205px" height="205px">
-                            <img src="img/Jojoba-Beans.jpg" alt="" width="205px" style="border-radius: 50%; height: 205px;">
+                        <div class="uk-panel">
+                            <img class="uk-border-circle" width="205" height="205" src="img/Jojoba-Beans.jpg">
                         </div>
                     </li>
                     <li>
-                        <div class="uk-panel" width="205px" height="205px">
-                            <img src="img/Olive-extract-.jpg" alt="" width="205px"  style="border-radius: 50%; height: 205px;">
+                        <div class="uk-panel">
+                            <img class="uk-border-circle" width="205" height="205" src="img/Olive-extract-.jpg" style="height: 205;">
                         </div>
                     </li>
                 </ul>
                 <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
                 <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slider-item="next"></a>
             </div>
+
+            <div class="uk-text-center" style="padding-top: 10px;">
+                Our promise is natural formulas that are high-performing and perfect for you.
+                Platino Island is more than cosmetic. It's amazing, from the inside out.
+            </div>
+        
         </div>
     </div>
 
-    <!-- <?php include_once('includes/footer.php'); ?> -->
-
+    <footer>
+        <!-- <?php include_once('includes/footer.php'); ?> -->
+    </footer>
 </body>

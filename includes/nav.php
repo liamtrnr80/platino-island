@@ -8,6 +8,7 @@
     <!-- Nav Center -->
     <div class="uk-navbar-center">
         <ul class="uk-navbar-nav">
+            <li><a href="index.php">Home</a></li>
             <li><a href="shop.php">Shop</a></li>
             <li><a href="about-us.php">About Us</a></li>
             <li><a href="contact-us.php">Contact Us</a></li>

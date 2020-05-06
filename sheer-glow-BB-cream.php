@@ -36,7 +36,7 @@ session_start();
                             <li>
                                 <a class="uk-accordion-title" href="#">Return & Refund Policy</a>
                                 <div class="uk-accordion-content">
-                                    <p>>I’m a Return and Refund policy. I’m a great place to let your customers know what to do in case they are dissatisfied 
+                                    <p>I’m a Return and Refund policy. I’m a great place to let your customers know what to do in case they are dissatisfied 
                                     with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your 
                                     customers that they can buy with confidence.</p>
                                 </div>
