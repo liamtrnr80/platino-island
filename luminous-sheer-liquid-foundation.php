@@ -20,7 +20,7 @@ session_start();
             <div class="uk-container">
                 <div class="uk-child-width-1-2" uk-grid>
                     <div>
-                        <img class="uk-align-left" src="img/._2LUMINOUS SHEER LIQUID FOUNDATION.jpg" width="500" height="500">
+                        <img class="uk-align-left" src="img/2LUMINOUS SHEER LIQUID FOUNDATION.jpg" width="500" height="500">
                     </div>
                     <div>
                         <h1>Luminous Sheer Liquid Foundation</h1>

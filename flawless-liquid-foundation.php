@@ -16,7 +16,7 @@ session_start();
     <?php include_once('includes/nav.php'); ?>
 
     <div class="uk-container full-height">
-        <div class="uk-section uk-section-muted">
+        <div class="uk-section">
             <div class="uk-container">
                 <div class="uk-child-width-1-2" uk-grid>
                     <div>
