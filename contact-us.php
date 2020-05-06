@@ -18,20 +18,23 @@ session_start();
             <div>
                 <div class="uk-card uk-card-default uk-card-small uk-card-body">
                     <h3 class="uk-card-title">EMAIL</h3>
+                    <button class="uk-button uk-button-default uk-align-right">Email us</button>
                     <p>Service@platinoisland.com.au</p>
                     <p>To reach our Online Sales Associates by email, click "Email us" to provide details and your contact information.</p>
-                    <button class="uk-button uk-button-default uk-align-right">Email us</button>
+                    
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-small uk-card-body">
                     <h3 class="uk-card-title">PHONE NUMBER</h3>
+                    <button class="uk-button uk-button-default uk-align-right" disabled>Call us at +61 1300 422 868</button>
                     <p>Our Online Sales Associates are available Monday to Saturday, from 9AM - 6PM (AEST), excluding holidays.</p>
                 </div>
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-small uk-card-body">
                     <h3 class="uk-card-title">LIVE CHAT</h3>
+                    <button class="uk-button uk-button-default uk-align-right">Chat with us</button>
                     <p>Chat with a live associat Monday to Saturday, between 9AM - 6PM (AEST)</p>
 
                 </div>
@@ -39,6 +42,7 @@ session_start();
             <div>
                 <div class="uk-card uk-card-default uk-card-small uk-card-body">
                     <h3 class="uk-card-title">ADDRESS</h3>
+                    <img class="uk-align-right uk-margin-remove-adjacent" src="img/map.png" width="150">
                     <p>Service@platinoisland.com.au</p>
                     <p>To reach our Online Sales Associates by email, click "Email us" to provide details and your contact information.</p>
                 </div>
