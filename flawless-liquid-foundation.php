@@ -25,6 +25,7 @@ session_start();
                     <div>
                         <h1>Flawless Liquid Foundation</h1>
                         <h4>$20.00</h4>
+                        <?php include_once("includes/product-buy.php"); ?>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
