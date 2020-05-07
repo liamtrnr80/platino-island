@@ -20,7 +20,7 @@ session_start();
             <div class="uk-panel uk-margin-medium uk-text-center">
                 <h2>Shop</h2>
             </div>
-            
+
             <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                 <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
@@ -32,7 +32,7 @@ session_start();
                     </div>
                 </a>
 
-                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                <a href="luminous-sheer-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/2LUMINOUS SHEER LIQUID FOUNDATION.jpg" alt="" width="250" height="250">
                     </div>
@@ -42,7 +42,7 @@ session_start();
                     </div>
                 </a>
 
-                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                <a href="organic-wear-silk-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/3ORGANIC WEAR SILK FOUNDATION.jpg" alt="" width="250" height="250">
                     </div>
@@ -52,7 +52,7 @@ session_start();
                     </div>
                 </a>
 
-                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                <a href="sheer-glow-BB-cream.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/4SHEER GLOW BB CREAM.jpg" alt="" width="250" height="250">
                     </div>
@@ -62,7 +62,7 @@ session_start();
                     </div>
                 </a>
 
-                <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                <a href="natural-mineral-cover-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/5NATURAL MINERAL COVER FOUNDATION.jpg" alt="" width="250" height="250">
                     </div>
@@ -72,10 +72,10 @@ session_start();
                     </div>
                 </a>
             </div>
-        </div>        
+        </div>
     </div>
 
     <footer>
-        <?php include_once('includes/footer.php'); ?>
+        <!-- <?php include_once('includes/footer.php'); ?> -->
     </footer>
 </body>

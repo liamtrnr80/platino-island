@@ -16,7 +16,7 @@ session_start();
     <?php include_once('includes/nav.php'); ?>
 
     <div class="uk-container full-height">
-        <div class="uk-section uk-section-muted">
+        <div class="uk-section">
             <div class="uk-container">
                 <div class="uk-child-width-1-2" uk-grid>
                     <div>
@@ -35,16 +35,16 @@ session_start();
                             <li>
                                 <a class="uk-accordion-title" href="#">Return & Refund Policy</a>
                                 <div class="uk-accordion-content">
-                                    <p>>I’m a Return and Refund policy. I’m a great place to let your customers know what to do in case they are dissatisfied 
-                                    with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your 
+                                    <p>>I’m a Return and Refund policy. I’m a great place to let your customers know what to do in case they are dissatisfied
+                                    with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your
                                     customers that they can buy with confidence.</p>
                                 </div>
                             </li>
                             <li>
                                 <a class="uk-accordion-title" href="#">Shipping Information</a>
                                 <div class="uk-accordion-content">
-                                    <p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. 
-                                    Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers 
+                                    <p>I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost.
+                                    Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers
                                     that they can buy from you with confidence.</p>
                                 </div>
                             </li>
