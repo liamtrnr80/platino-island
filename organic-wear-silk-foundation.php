@@ -15,7 +15,7 @@ session_start();
 <body>
     <?php include_once('includes/nav.php'); ?>
 
-    <div class="uk-container full-height">
+    <div class="uk-container ">
         <div class="uk-section">
             <div class="uk-container">
                 <div class="uk-child-width-1-2" uk-grid>
@@ -23,8 +23,9 @@ session_start();
                         <img class="uk-align-left" src="img/3ORGANIC WEAR SILK FOUNDATION.jpg" width="500" height="500">
                     </div>
                     <div>
-                        <h1>Organic Wear Silk Foundation</h1>
-                        <h4>$20.00</h4>
+                        <h1 class="item_name">Organic Wear Silk Foundation</h1>
+                        <h4 class="item_price">$20.00</h4>
+                        <a class="item_add uk-button uk-button-default" href="javascript:;">Add to Cart</a>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
@@ -52,9 +53,23 @@ session_start();
                     </div>
                 </div>
                 <div class="uk-container">
-                <h3>How to Use</h3>
-                    <p>Shake bottle before each use. Apply a small amount of Primer as it creates a smooth, even base for make-up application and helps to extend wear.</p>
-                    <p>Apply a small amount of the Flawless Liquid Foundation (1 pump) to the back of the hand.</p>
+                    <div class="uk-align-right">
+                        <h4>Benefits</h4>
+                        <ul class="uk-list">
+                            <li>Hypoallergenic</li>
+                            <li>Fragrance-Free</li>
+                            <li>Paraben-Free</li>
+                            <li>Gluten Free</li>
+                            <li>Dermatologist Approved</li>
+                            <li>Clinically Tested</li>
+                            <li>Cruelty Free</li>
+                        <ul>
+                    </div>
+                    <div>
+                        <h3>How to Use</h3>
+                        <p>Shake bottle before each use. Apply a small amount of Primer as it creates a smooth, even base for make-up application and helps to extend wear.</p>
+                        <p>Apply a small amount of the Flawless Liquid Foundation (1 pump) to the back of the hand.</p>
+                    </div>
                 </div>
             </div>
         </div>

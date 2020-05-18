@@ -2,7 +2,7 @@
     <!-- Nav Left -->
     <div class="uk-navbar-left">
         <ul class="uk-navbar-nav">
-            <li><a href="index.php"><img src="img/New_Logo.png" alt="Platino Island" width="100px" height="100px"></a></li>
+            <li><a href="index.php"><img src="img/New_Logo.png" alt="Platino Island" width="80px" height="80px"></a></li>
         </ul>
     </div>
     <!-- Nav Center -->
@@ -23,6 +23,7 @@
                 <input class="uk-search-input" type="search" placeholder="Search..." autofocus>
             </form>
         </div>
+        <a uk-icon="cart" href=""></a>
         <ul class="uk-navbar-nav">
             <li><a href="">Login</a></li>
         </ul>

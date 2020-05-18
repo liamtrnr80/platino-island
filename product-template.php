@@ -25,7 +25,7 @@ session_start();
                     <div>
                         <h1 class="item_name">Product Name</h1>
                         <h5 class="item_price">$20.00</h5>
-                        <a class="item_add" href="javascript:;">Add to Cart</a>
+                        <a class="item_add uk-button uk-button-default" href="javascript:;">Add to Cart</a>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
@@ -53,9 +53,19 @@ session_start();
                     </div>
                 </div>
                 <div class="uk-container">
+                    <div class="uk-align-right">
+                        <h4>Benefits</h4>
+                        <ul class="uk-list">
+                            <li>List Item #1</li>
+                            <li>List Item #2</li>
+                            <li>List Item #3</li>
+                        <ul>
+                    </div>
+                    <div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at sapien quis sem pretium volutpat nec ut felis. Nulla luctus lacus at dolor dignissim gravida. Aliquam laoreet metus felis, malesuada ultricies justo mollis id. Curabitur dapibus finibus erat, id ornare elit porta in. Nullam lorem ligula, rutrum non nibh at, elementum porta neque. Mauris sagittis magna metus, sed scelerisque quam venenatis quis. Nullam vulputate ipsum non mauris tempus, sed viverra metus convallis. Nunc ac lorem felis. Duis pharetra felis ligula, vestibulum bibendum enim fermentum iaculis. Pellentesque vitae finibus eros, in efficitur quam. In convallis tortor sapien, quis sodales urna hendrerit non. In pulvinar iaculis eleifend. Sed ullamcorper ante ac dui accumsan commodo. Nunc posuere cursus gravida.</p>
                     <p>Sed est neque, vehicula nec eleifend a, ultricies quis ex. Morbi nec mattis nunc. Aliquam erat volutpat. Etiam elit ante, molestie eget interdum a, consectetur non velit. Integer efficitur molestie sem sed placerat. Nullam at est tortor. Maecenas sit amet sem eget tellus rhoncus congue at in turpis. Aenean mattis lorem vel convallis bibendum. Aliquam tempus posuere sapien, vel malesuada risus tincidunt eget. Vivamus arcu elit, volutpat ut molestie nec, malesuada ut lorem. Curabitur eu dictum libero. Praesent at tincidunt enim, ac tempor nibh. Aenean gravida ultrices sem non eleifend. Nullam volutpat pharetra enim, non lobortis dui pellentesque sed. Vivamus feugiat, arcu id scelerisque imperdiet, dolor risus sollicitudin sem, a condimentum magna sapien vel felis.</p>
                     <p>Mauris at nunc arcu. Ut rhoncus elit quis dui egestas, ut tincidunt neque luctus. Fusce augue massa, iaculis eu justo in, finibus pretium lectus. Integer nec egestas nisl, eu facilisis nunc. Sed felis lectus, aliquam sit amet dui vitae, pretium finibus lacus. Sed condimentum semper metus, sit amet euismod elit volutpat nec. Donec egestas ipsum eu risus mattis, quis aliquet eros venenatis. Ut maximus est eu nibh blandit vestibulum. Duis nec nunc vitae lacus hendrerit lacinia vel sit amet leo. Etiam rhoncus libero nec ultrices posuere. Cras non elit nec urna ultricies posuere. Vivamus ut lacus vitae orci consectetur aliquam. Vestibulum ut euismod quam. Phasellus bibendum a tortor non vestibulum. Pellentesque laoreet, leo ac fermentum elementum, mauris risus imperdiet lorem, in feugiat diam tortor sed neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
                 </div>
             </div>
         </div>
