@@ -2,7 +2,7 @@
     <!-- Nav Left -->
     <div class="uk-navbar-left">
         <ul class="uk-navbar-nav">
-            <li><a href="index.php"><img src="img/Logo.png" alt="Platino Island" width="100px" height="100px"></a></li>
+            <li><a href="index.php"><img src="img/New_Logo.png" alt="Platino Island" width="100px" height="100px"></a></li>
         </ul>
     </div>
     <!-- Nav Center -->

@@ -16,15 +16,16 @@ session_start();
     <?php include_once('includes/nav.php'); ?>
 
     <div class="uk-container full-height">
-        <div class="uk-section uk-section-muted">
+        <div class="uk-section">
             <div class="uk-container">
                 <div class="uk-child-width-1-2" uk-grid>
                     <div>
                         <img class="uk-align-left" src="img/10-AIRBRUSH-MINERAL-PRIMER.jpg" width="500" height="500">
                     </div>
                     <div>
-                        <h1>Product Name</h1>
-                        <h5>$20.00</h5>
+                        <h1 class="item_name">Product Name</h1>
+                        <h5 class="item_price">$20.00</h5>
+                        <a class="item_add" href="javascript:;">Add to Cart</a>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>

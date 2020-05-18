@@ -71,6 +71,16 @@ session_start();
                         <div class="uk-text-meta">$20.00</div>
                     </div>
                 </a>
+
+                <a href="product-template.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
+                    <div class="uk-card-media-top">
+                        <img class="uk-align-center" src="img/5NATURAL MINERAL COVER FOUNDATION.jpg" alt="" width="250" height="250">
+                    </div>
+                    <div class="uk-card-body">
+                        <div class="uk-text-small">Product Template</div>
+                        <div class="uk-text-meta">$20.00</div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
