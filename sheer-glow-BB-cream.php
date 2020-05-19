@@ -22,9 +22,10 @@ session_start();
                     <div>
                         <img class="uk-align-left" src="img/4SHEER GLOW BB CREAM.jpg" width="500" height="500">
                     </div>
-                    <div>
-                        <h1>Sheer Glow BB Cream</h1>
-                        <h4>$20.00</h4>
+                    <div class="simpleCart_shelfItem">
+                        <h1 class="item_name">Sheer Glow BB Cream</h1>
+                        <h5 class="item_price">$20.00</h5>
+                        <a class="item_add uk-button uk-button-default" href="javascript:;">Add to Cart</a>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>

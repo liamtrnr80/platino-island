@@ -12,11 +12,56 @@
 
 #footer {
     position: absolute;
-    bottom: 0;
     width: 100%;
     height: 2.5em;
 }
 
 .body {
     background: #a0a0a0;
+}
+
+.simpleCart_items .headerRow {
+    width: 100%;
+}
+
+.simpleCart_items table {
+    border-collapse: collapse;
+    border-spacing: 0;
+        -webkit-border-horizontal-spacing: 0px;
+        -webkit-border-vertical-spacing: 0px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.headerRow th{
+    width: 100%;
+}
+
+.itemRow td {
+    width: 100%;
+    padding: 10px;
+}
+
+
+
+.odd {
+    background: #f8f8f8;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;;
+}
+
+.item-quantity {
+    text-align: center;
+}
+
+.item-increment a {
+    padding: 0 3px 0 3px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.item-decrement a {
+    padding: 0 3px 0 3px;
+    text-decoration: none;
+    font-weight: bold;
 }

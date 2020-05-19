@@ -8,8 +8,7 @@ simpleCart({
         { attr: "total", label: "SubTotal", view: 'currency' },
         { view: "remove", text: "Remove", label: false }
     ],
-
-    cartStyle: "div",
+    cartStyle: "table",
 
     checkout: {
         type: "PayPal",
@@ -38,4 +37,4 @@ simpleCart({
     checkoutSuccess: null,
     checkoutFail: null,
     beforeCheckout: null
-})
+});

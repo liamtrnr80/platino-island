@@ -80,7 +80,7 @@ session_start();
                 <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slider-item="next"></a>
             </div>
 
-            <div class="uk-text-center" style="padding-top: 10px;">
+            <div class="uk-text-center" style="padding: 10px 0px;">
                 Our promise is natural formulas that are high-performing and perfect for you.
                 Platino Island is more than cosmetic. It's amazing, from the inside out.
             </div>
@@ -89,6 +89,6 @@ session_start();
     </div>
 
     <footer>
-        <!-- <?php include_once('includes/footer.php'); ?> -->
+        <?php include_once('includes/footer.php'); ?>
     </footer>
 </body>

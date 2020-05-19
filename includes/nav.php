@@ -23,7 +23,10 @@
                 <input class="uk-search-input" type="search" placeholder="Search..." autofocus>
             </form>
         </div>
-        <a uk-icon="cart" href=""></a>
+
+        <span class="uk-badge uk-light simpleCart_quantity"></span>
+        <a uk-icon="cart" href="shopping-cart.php" role="button"></a>
+        
         <ul class="uk-navbar-nav">
             <li><a href="">Login</a></li>
         </ul>
