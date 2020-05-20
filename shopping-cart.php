@@ -53,4 +53,9 @@ session_start()
     <footer>
         <?php include_once('includes/footer.php'); ?>
     </footer>
+
+    <script>
+
+
+    </script>
 </body>

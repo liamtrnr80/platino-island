@@ -65,3 +65,7 @@
     text-decoration: none;
     font-weight: bold;
 }
+
+.insta {
+    clip: rect(0px,60px,200px,0px)
+}
