@@ -12,7 +12,7 @@
             <li><a href="shop.php">Shop</a></li>
             <li><a href="about-us.php">About Us</a></li>
             <li><a href="contact-us.php">Contact Us</a></li>
-            <li><a href="">Discover</a></li>
+            <li><a href="discover.php">Discover</a></li>
         </ul>
     </div>
     <!-- Nav Right -->
@@ -24,11 +24,32 @@
             </form>
         </div>
 
+        <a uk-icon="icon: cart; ratio: 1.5" href="shopping-cart.php" role="button"></a>
         <span class="uk-badge uk-light simpleCart_quantity"></span>
-        <a uk-icon="cart" href="shopping-cart.php" role="button"></a>
+
+        <?php
+            if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 'true') {
+                echo '
+                    <ul class="uk-navbar-nav">
+                        <li>
+                            <a href="#" class="" uk-icon="icon: user; ratio: 1.5"></a>
+                            <div class="uk-navbar-dropdown">
+                                <ul class="uk-nav uk-navbar-dropdown-nav">
+                                    <li><a href="logout.php">Logout</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                ';
+            } else {
+                echo '
+                    <ul class="uk-navbar-nav">
+                        <li><a href="login.php">Login</a></li>
+                    </ul>
+                ';
+            }
+
+        ?>
         
-        <ul class="uk-navbar-nav">
-            <li><a href="">Login</a></li>
-        </ul>
     </div>
 </nav>

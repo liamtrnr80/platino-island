@@ -30,7 +30,7 @@ session_start();
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
                                 <div class="uk-accordion-content">
-                                    <p>The Flawless Concealer expertly camouflages dark circles and imperfections but looks and feels like a second skin thanks to natural pigments that act in seamless affinity with the complexion. The creamy full coverage formula offers a satin matte finish, is long wearing, and comes in an easy-to-use stick that delivers just the right amount of product. Formulated with good for you natural ingredients, including Bamboo Powder for a soft focus effect, Baobab Fruit Extract, and the antioxidant rich Australian native Kakadu Plum and Quandong to benefit the skin, it delivers lasting, flawless coverage with each application.</p>
+                                    <p>A long wearing stick convealer that expertly camouflages dark circles, pigmentation and imperfections.</p>
                                 </div>
                             </li>
                             <li>
@@ -52,19 +52,22 @@ session_start();
                         </ul>
                     </div>
                 </div>
-                <div class="uk-container">
-                    <div class="uk-align-right">
+                <div class="uk-container" uk-grid>
+                    <div class="uk-width-3-4">
+                        <h4>Description</h4>
+                        <p>The Flawless Concealer expertly camouflages dark circles and imperfections but looks and feels like a second skin thanks to natural pigments that act in seamless affinity with the complexion. The creamy full coverage formula offers a satin matte finish, is long wearing, and comes in an easy-to-use stick that delivers just the right amount of product. Formulated with good for you natural ingredients, including Bamboo Powder for a soft focus effect, Baobab Fruit Extract, and the antioxidant rich Australian native Kakadu Plum and Quandong to benefit the skin, it delivers lasting, flawless coverage with each application.</p>
+                        <h4>How to Use</h4>
+                        <p>Apply the Flawless Concealer directly to the skin to camouflage imperfections, and blend seamlessly with fingertips or Concealer Brush until full, even coverage is achieved.</p>
+                    </div>
+                    <div class="uk-width-1-4">
                         <h4>Benefits</h4>
                         <ul class="uk-list">
                             <li>Long wearing</li>
-                            <li>Pigments act in seamless affinity with the complexation </li>
+                            <li>Pigments act in seamless affinity with the complexion</li>
                             <li>Easy-to-use stick format</li>
+                            <li>Dermatologist tested, suitable for sensitive skin</li>
                             <li>Fragrance-free</li>
                         <ul>
-                    </div>
-                    <div>
-                    <h3>How to use</h3>
-                    <p>UApply the Flawless Concealer directly to the skin to camouflage imperfections, and blend seamlessly with fingertips or Concealer Brush until full, even coverage is achieved.</p>
                     </div>
                 </div>
             </div>

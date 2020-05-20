@@ -8,7 +8,7 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>PERFECTING CONCEALER</title>
+    <title>Perfecting Concealer</title>
     <?php include_once('includes/header.php'); ?>
 </head>
 
@@ -30,7 +30,7 @@ session_start();
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
                                 <div class="uk-accordion-content">
-                                    <p>The Perfecting Concealer instantly covers dark circles, disguises puffiness, hyper-pigmentation and blemishes. Enriched with Australian native Kakadu Plum, Vitamin E, Jojoba and Shea Butter, the formula works to provide skin coverage while helping improve skin radiance.</p>
+                                    <p>A creamy liquid concealer that instantly covers dark circles and disguises puffiness and mperfections.</p>
                                 </div>
                             </li>
                             <li>
@@ -52,19 +52,22 @@ session_start();
                         </ul>
                     </div>
                 </div>
-                <div class="uk-container">
-                    <div class="uk-align-right">
+                <div class="uk-container" uk-grid>
+                    <div class="uk-width-3-4">
+                        <h4>Description</h4>
+                        <p>The Perfecting Concealer instantly covers dark circles, disguises puffiness, hyper-pigmentation and blemishes. Enriched with Australian native Kakadu Plum, Vitamin E, Jojoba and Shea Butter, the formula works to provide skin coverage while helping improve skin radiance.</p>
+                        <h4>How to Use</h4>
+                        <p>Use fingertips or the Concealer Brsh to apply the Liquid Mineral Concealer to cover dark circles and any imperfections. Blend seamlessly into the skin.</p>
+                    </div>
+                    <div class="uk-width-1-4">
                         <h4>Benefits</h4>
                         <ul class="uk-list">
-                            <li>No crease</li>
-                            <li>moisturising ingredients </li>
+                            <li>Does not crease</li>
+                            <li>Moisturising ingredients</li>
+                            <li>Blends seamlessly</li>
                             <li>Disguises puffiness</li>
                             <li>Fragrance-free</li>
                         <ul>
-                    </div>
-                    <div>
-                    <h3>How to use</h3>
-                    <p>Use fingertips or the Concealer Brush to apply the Liquid Mineral Concealer to cover dark circles and any imperfections. Blend seamlessly into the skin.</p>
                     </div>
                 </div>
             </div>

@@ -21,6 +21,7 @@ session_start();
                 <h2>Shop</h2>
             </div>
 
+            <!-- Flawless Liquid Foundation -->
             <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
                 <a href="flawless-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
@@ -28,60 +29,66 @@ session_start();
                     </div>
                     <div class="uk-card-body">
                         <div class="uk-text-small">Flawless Liquid Foundation</div>
-                        <div class="uk-text-meta">$20.00</div>
+                        <div class="uk-text-meta">$49.95</div>
                     </div>
                 </a>
 
+                <!-- Luminous Sheer Liquid Foundation -->
                 <a href="luminous-sheer-liquid-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/2LUMINOUS SHEER LIQUID FOUNDATION.jpg" alt="Luminous Sheer Liquid Foundation" width="250" height="250">
                     </div>
                     <div class="uk-card-body">
                         <div class="uk-text-small">Luminous Sheer Liquid Foundation</div>
-                        <div class="uk-text-meta">$20.00</div>
+                        <div class="uk-text-meta">$49.95</div>
                     </div>
                 </a>
 
+                <!-- Organic Wear Silk Foundation -->
                 <a href="organic-wear-silk-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/3ORGANIC WEAR SILK FOUNDATION.jpg" alt="Organic Wear Silk Foundation" width="250" height="250">
                     </div>
                     <div class="uk-card-body">
                         <div class="uk-text-small">Organic Wear Silk Foundation</div>
-                        <div class="uk-text-meta">$20.00</div>
+                        <div class="uk-text-meta">$49.95</div>
                     </div>
                 </a>
 
+                <!-- Sheer Glow BB Cream -->
                 <a href="sheer-glow-BB-cream.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/4SHEER GLOW BB CREAM.jpg" alt="Sheer Glow BB Cream" width="250" height="250">
                     </div>
                     <div class="uk-card-body">
-                        <div class="uk-text-small">Sheer Glob BB Cream</div>
-                        <div class="uk-text-meta">$20.00</div>
+                        <div class="uk-text-small">Sheer Glow BB Cream</div>
+                        <div class="uk-text-meta">$49.95</div>
                     </div>
                 </a>
-
+                
+                <!-- Natural Mineral Cover Foundation -->
                 <a href="natural-mineral-cover-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle">
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/5NATURAL MINERAL COVER FOUNDATION.jpg" alt="Natural Mineral Cover Foundation" width="250" height="250">
                     </div>
                     <div class="uk-card-body">
                         <div class="uk-text-small">Natural Mineral Cover Foundation</div>
-                        <div class="uk-text-meta">$20.00</div>
+                        <div class="uk-text-meta">$49.95</div>
                     </div>
                 </a>
 
+                <!-- Pressed Mineral Cover Foundation -->
                 <a href="pressed-mineral-cover-foundation.php" class="uk-display-block uk-card uk-card-default uk-link-toggle"> 
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/6PRESSED MINERAL COVER FOUNDATION.jpg" alt="Pressed Mineral Cover Foundation" width="250" height="250">
                     </div>
                     <div class="uk-card-body">
                         <div class="uk-text-small">Pressed Mineral Cover Foundation</div>
-                        <div class="uk-text-meta">$20.00</div>
+                        <div class="uk-text-meta">$49.95</div>
                     </div>
                 </a>
 
+                <!-- Flawless Concealer -->
                 <a href="flawless-concealer.php" class="uk-display-block uk-card uk-card-default uk-link-toggle"> 
                     <div class="uk-card-media-top">
                         <img class="uk-align-center" src="img/7 FLAWLESS CONCEALER.jpg" alt="Flawless Concealer" width="250" height="250">
@@ -101,6 +108,7 @@ session_start();
                         <div class="uk-text-meta">$29.95</div>
                     </div>
                 </a>
+                
                 <!-- Virgin Blush -->
                 <a href="virgin-blush.php" class="uk-display-block uk-card uk-card-default uk-link-toggle"> 
                     <div class="uk-card-media-top">
@@ -111,6 +119,7 @@ session_start();
                         <div class="uk-text-meta">$29.95</div>
                     </div>
                 </a>
+
                 <!-- Airbrush Mineral Primer -->
                 <a href="airbrush-mineral-primer.php" class="uk-display-block uk-card uk-card-default uk-link-toggle"> 
                     <div class="uk-card-media-top">

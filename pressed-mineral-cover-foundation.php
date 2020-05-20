@@ -24,13 +24,13 @@ session_start();
                     </div>
                     <div class="simpleCart_shelfItem">
                         <h1 class="item_name">Pressed Mineral cover foundation</h1>
-                        <h5 class="item_price">$20.00</h5>
+                        <h5 class="item_price">$49.95</h5>
                         <a class="item_add uk-button uk-button-default" href="javascript:;">Add to Cart</a>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
                                 <div class="uk-accordion-content">
-                                    <p>The Pressed Mineral Cover instantly illuminates the skin with a flawless coverage and contains antioxidant ingredients. The appearance of pores and wrinkles is instantly minimised. The powder is composed of active natural ingredients, including the native Australian Kakadu Plum, known for its abundant Vitamin C content, and Cehami Extract, to benefit the skin. The fragrance-free formula also contains Vitamin E, Avocado Oil, Jojoba Oil and Shea Butter to help perfect your complexion.</p>
+                                    <p>A pressed mineral powder foundation that delivers medium to full coverage with a matte finish, for up to 8 hours.</p>
                                 </div>
                             </li>
                             <li>
@@ -52,19 +52,21 @@ session_start();
                         </ul>
                     </div>
                 </div>
-                <div class="uk-container">
-                    <div class="uk-align-right">
+                <div class="uk-container" uk-grid>
+                    <div class="uk-width-3-4">
+                        <h4>Description</h4>
+                        <p>The Pressed Mineral Cover instantly illuminates the skin with a flawless coverage and contains antioxidant ingredients. The appearance of pores and wrinkles is instantly minimised. The powder is composed of active natural ingredients, including the native Australian Kakadu Plum, known for its abundant Vitamin C content, and Cehami Extract, to benefit the skin. The fragrance-free formula also contains Vitamin E, Avocado Oil, Jojoba Oil and Shea Butter to help perfect your complexion.</p>
+                        <h4>How to Use</h4>
+                        <p>Use the Brush to buff the powder onto skin in light, circular motions, building it gradually to the desired medium to full coverage.</p>
+                    </div>
+                    <div class="uk-width-1-4">
                         <h4>Benefits</h4>
                         <ul class="uk-list">
                             <li>Evens out complexion and covers imperfections</li>
-                            <li>Controls oil and shine </li>
+                            <li>Controls oil and shine</li>
                             <li>Non-drying formula</li>
                             <li>Minimises appearance of pores and fine lines</li>
                         <ul>
-                    </div>
-                    <div>
-                    <h3>How to use</h3>
-                    <p>Use the Brush to buff the powder onto skin in light, circular motions, building it gradually to the desired medium to full coverage.</p>
                     </div>
                 </div>
             </div>

@@ -24,14 +24,13 @@ session_start();
                     </div>
                     <div class="simpleCart_shelfItem">
                         <h1 class="item_name">Sheer Glow BB Cream</h1>
-                        <h5 class="item_price">$20.00</h5>
+                        <h5 class="item_price">$49.95</h5>
                         <a class="item_add uk-button uk-button-default" href="javascript:;">Add to Cart</a>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
                                 <div class="uk-accordion-content">
-                                    <p> The Sheer Glow BB Cream instantly enhances the complexion, providing light coverage to even out skin tone, minimise the appearance of fine lines and imperfections for a natural, luminous finish with SPF 20 protection.</p>
-                                    <p>The all-in-one formula contains active natural ingredients, including Phytomoist and the native Australian Kakadu Plum known for its abundant Vitamin C content, Quandong and Desert Lime to help fight visible signs of ageing. The lightweight, non-greasy texture is enriched with moisturising Aloe Vera and Desert Date Oil to benefit the skin and perfect the complexion. </p>
+                                    <p>An all-in-one BB cream that delivers sheer to light coverage with luminous, natural finish and SPF 20. Good for all types of sensitive skin.</p>
                                 </div>
                             </li>
                             <li>
@@ -53,9 +52,24 @@ session_start();
                         </ul>
                     </div>
                 </div>
-                <div class="uk-container">
-                <h3>How to Use</h3>
-                    <p>Apply a small amount over face and neck. Try not to rub, blend using a patting motion.</p>
+                <div class="uk-container" uk-grid>
+                    <div class="uk-width-3-4">
+                        <h4>Description</h4>
+                        <p> The Sheer Glow BB Cream instantly enhances the complexion, providing light coverage to even out skin tone, minimise the appearance of fine lines and imperfections for a natural, luminous finish with SPF 20 protection.</p>
+                        <p>The all-in-one formula contains active natural ingredients, including Phytomoist and the native Australian Kakadu Plum known for its abundant Vitamin C content, Quandong and Desert Lime to help fight visible signs of ageing. The lightweight, non-greasy texture is enriched with moisturising Aloe Vera and Desert Date Oil to benefit the skin and perfect the complexion. </p>
+                        <h4>How to Use</h4>
+                        <p>Apply a small amount over face and neck. Try not to rub, blend using a patting motion.</p>
+                    </div>
+                    <div class="uk-width-1-4">
+                        <h4>Benefits</h4>
+                        <ul class="uk-list">
+                            <li>SPF 20 protection</li>
+                            <li>Silky texture without silicones</li>
+                            <li>Moisturising ingredients</li>
+                            <li>Dermatologist tested, suitable for sensitive skin</li>
+                            <li>Helps fight visible signs of ageing</li>
+                        <ul>
+                    </div>
                 </div>
             </div>
         </div>

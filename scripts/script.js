@@ -38,3 +38,13 @@ simpleCart({
     checkoutFail: null,
     beforeCheckout: null
 });
+
+var australia = {
+    "ACT":"act",
+    "Victoria": "vic",
+    "New South Wales" : "nsw",
+    "Queensland" : "qld",
+    "Western Australia" : "wa",
+    "South Australia" : "sa",
+    "Tasmania" : "tas"
+}

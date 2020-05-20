@@ -30,7 +30,7 @@ session_start();
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
                                 <div class="uk-accordion-content">
-                                    <p>The Airbrush Mineral Primer smooths skin and creates an even, luminous base for make-up application. The untinted formula blends seamlessly into the skin, restoring freshness and helping fight visible signs of ageing, while helping to extend make-up wear and disguising skin imperfections. The primer is composed of active natural ingredients, including the native Australian Kakadu Plum, known for its abundant Vitamin C content, rich antioxidants Vitamins A and E, and Green Tea.</p>
+                                    <p>A smoothing, silicone-free primer that creates an even base for make-up application, while helping to extend wear.</p>
                                 </div>
                             </li>
                             <li>
@@ -52,19 +52,22 @@ session_start();
                         </ul>
                     </div>
                 </div>
-                <div class="uk-container">
-                    <div class="uk-align-right">
+                <div class="uk-container" uk-grid>
+                    <div class="uk-width-3-4">
+                        <h4>Description</h4>
+                        <p>The Airbrush Mineral Primer smooths skin and creates an even, luminous base for make-up application. The untinted formula blends seamlessly into the skin, restoring freshness and helping fight visible signs of ageing, while helping to extend make-up wear and disguising skin imperfections. The primer is composed of active natural ingredients, including the native Australian Kakadu Plum, known for its abundant Vitamin C content, rich antioxidants Vitamins A and E, and Green Tea.</p>
+                        <h4>How to Use</h4>
+                        <p>Use fingertips to apply the Airbrush Mineral Primer across the face prior to foundation application.</p>
+                    </div>
+                    <div class="uk-width-1-4">
                         <h4>Benefits</h4>
                         <ul class="uk-list">
-                            <li>Easy to blend</li>
-                            <li>Moisturising ingredients </li>
-                            <li>Neutral bronze shade to suit all skin tones</li>
-                            <li>Fragrance-free</li>
+                            <li>Smooths skin without silicones</li>
+                            <li>Moisturising ingredients</li>
+                            <li>Antioxidant rich formula</li>
+                            <li>Blends seamlessly into the skin</li>
+                            <li>Helps fight visible signs of ageing</li>
                         <ul>
-                    </div>
-                    <div>
-                    <h3>How to use</h3>
-                    <p>Use fingertips to apply the Airbrush Mineral Primer across the face prior to foundation application</p>
                     </div>
                 </div>
             </div>

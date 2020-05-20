@@ -24,13 +24,13 @@ session_start();
                     </div>
                     <div class="simpleCart_shelfItem">
                         <h1 class="item_name">Luminous Sheer Liquid Foundation</h1>
-                        <h5 class="item_price">$20.00</h5>
+                        <h5 class="item_price">$49.95</h5>
                         <a class="item_add uk-button uk-button-default" href="javascript:;">Add to Cart</a>
                         <ul uk-accordion>
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
                                 <div class="uk-accordion-content">
-                                    <p> Lightweight with a sheer finish, the Luminous Sheer Liquid Foundation is composed of active natural Australian ingredients such as Kakadu Plum, Lilly Pilly and Quandong, combined with rich vitamins and antioxidants. Together, this hydrating foundation helps fight visible signs of ageing, improving the skin’s natural radiance with every application. Good for dry sensitive skin. </p>
+                                    <p>A sheer liquid foundation that delivers to medium coverage with a dewy radiant finish.</p>
                                 </div>
                             </li>
                             <li>
@@ -52,10 +52,24 @@ session_start();
                         </ul>
                     </div>
                 </div>
-                <div class="uk-container">
-                <h3>How to Use</h3>
-                    <p>Use the Liquid Foundation Brush to gently apply the Luminous Sheer Liquid Foundation across the face, and build the desired coverage seamlessly. Shake well before use.</p>
 
+                <div class="uk-container" uk-grid>
+                    <div class="uk-width-3-4">
+                        <h4>Description</h4>
+                        <p>Lightweight with a sheer finish, the Luminous Sheer Liquid Foundation is composed of active natural Australian ingredients such as Kakadu Plum, Lilly Pilly and Quandong, combined with rich vitamins and antioxidants. Together, this hydrating foundation helps fight visible signs of ageing, improving the skin’s natural radiance with every application. Good for dry sensitive skin. </p>
+                        <h4>How to Use</h4>
+                        <p>Use the Liquid Foundation Brush to gently apply the Luminous Sheer Liquid Foundation across the face and build the desired coverage seamlessly. Shake well before use.</p>
+                    </div>
+                    <div class="uk-width-1-4">
+                        <h4>Benefits</h4>
+                        <ul class="uk-list">
+                            <li>Hydrating formula</li>
+                            <li>Skin nourishing ingredients</li>
+                            <li>Rich in vitamins and antioxidants</li>
+                            <li>Helps fight visible signs of ageing</li>
+                            <li>Fragrance-free</li>
+                        <ul>
+                    </div>
                 </div>
             </div>
         </div>

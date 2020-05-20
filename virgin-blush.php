@@ -8,7 +8,7 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>VIRGIN BLUSH</title>
+    <title>Virgin Blush</title>
     <?php include_once('includes/header.php'); ?>
 </head>
 
@@ -30,7 +30,7 @@ session_start();
                             <li class="uk-open">
                                 <a class="uk-accordion-title" href="#">Product Description</a>
                                 <div class="uk-accordion-content">
-                                    <p>The Virgin Blush is concentrated with highly pigmented light-reflecting micro particles that blend naturally into the skin, leaving a soft sheen finish. The feather-light formula brings a touch of colour while maintaining its glow throughout the day. The powder is composed of performing active natural ingredients including Jojoba Esters known for their nourishing properties.</p>
+                                    <p>A loose mineral powder bluch that adds a touch of colour to help define cheekbones and provide a healthy glow.</p>
                                 </div>
                             </li>
                             <li>
@@ -52,19 +52,23 @@ session_start();
                         </ul>
                     </div>
                 </div>
-                <div class="uk-container">
-                    <div class="uk-align-right">
+
+                <div class="uk-container" uk-grid>
+                    <div class="uk-width-3-4">
+                        <h4>Description</h4>
+                        <p>The Virgin Blush is concentrated with highly pigmented light-reflecting micro particles that blend naturally into the skin, leaving a soft sheen finish. The feather-light formula brings a touch of colour while maintaining its glow throughout the day. The powder is composed of performing active natural ingredients including Jojoba Esters known for their nourishing properties.</p>
+                        <h4>How to Use</h4>
+                        <p>Use the Angled Blush Brush to apply a small amount of Virgin Blush along the cheekbones and down to the jawline. Build as desired, using a small amount of product at a time.</p>
+                    </div>
+                    <div class="uk-width-1-4">
                         <h4>Benefits</h4>
                         <ul class="uk-list">
+                            <li>Skin nourishing ingredients</li>
+                            <li>Neutral bronze hade to suit all skin tones</li>
+                            <li>Highly pigmented to customise colour</li>
                             <li>Easy to blend</li>
-                            <li>skin nourishing ingredients </li>
-                            <li>Neutral bronze shade to suit all skin tones</li>
                             <li>Fragrance-free</li>
                         <ul>
-                    </div>
-                    <div>
-                    <h3>How to use</h3>
-                    <p>Use the Angled Blush Brush to apply a small amount of Virgin Blush along the cheekbones and down to the jawline. Build as desired, using a small amount of product at a time.</p>
                     </div>
                 </div>
             </div>

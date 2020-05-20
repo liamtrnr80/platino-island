@@ -1,7 +1,3 @@
-<?php
-session_start();
-?>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,6 +11,8 @@ session_start();
 }
 </style>
 <body>
+    <?php include('admin-login.php'); ?>
+
     <?php include_once('includes/nav.php'); ?>
     
     <div class="uk-container full-height">
