@@ -14,7 +14,7 @@
     <?php include('admin-login.php'); ?>
 
     <?php include_once('includes/nav.php'); ?>
-    
+
     <div class="uk-container full-height" style="padding: 10px 0px;">
         <h1 class="uk-heading-large uk-text-center">PLATINO ISLAND</h1>
         <div class="uk-container">
@@ -98,24 +98,24 @@
             <div class="uk-text-center" style="padding: 10px 0px;">
                 Our promise is natural formulas that are high-performing and perfect for you.
                 Platino Island is more than cosmetic. It's amazing, from the inside out.
-                
+
             </div>
             <div class="uk-text-center">
                 <a href="about-us.php" class="uk-button">LEARN MORE</a>
             </div>
-            
+
             <div class="uk-container uk-text-center">
                 <h3 class="uk-heading-medium uk-margin-small-bottom">SHOW INSTAGRAM</h4>
                 <h4 class="uk-heading-small uk-margin-small-top">#platinoislandoffical</h5>
             </div>
 
-            <div class="uk-container" style="background: #f5e7df">
+            <div class="uk-container" style="background: #f5e7df; padding: 15px;">
                 <div class="uk-child-width-1-5 uk-text-center" uk-grid>
-                    <img class="uk-border-circle uk-padding-small" width="200" height="200" src="img/pexels-photo-3155588.jpeg">
-                    <img class="uk-border-circle uk-padding-small" width="200" height="200" src="img/pexels-photo-3520723.jpeg">
-                    <img class="uk-border-circle uk-padding-small" width="200" height="200" src="img/pexels-photo-3601536.jpeg">
-                    <img class="uk-border-circle uk-padding-small" width="200" height="200" src="img/beauty-fashion-background-shop-1571585.jpeg">
-                    <img class="uk-border-circle uk-padding-small" width="200" height="200" src="img/pexels-photo-3526843.jpeg">
+                    <img class="uk-border-circle " width="180" height="180" src="img/pexels-photo-3155588.jpeg">
+                    <img class="uk-border-circle " width="180" height="180" src="img/pexels-photo-3520723.jpeg">
+                    <img class="uk-border-circle " width="180" height="180" src="img/pexels-photo-3601536.jpeg">
+                    <img class="uk-border-circle " width="180" height="180" src="img/beauty-fashion-background-shop-1571585.jpeg">
+                    <img class="uk-border-circle " width="180" height="180" src="img/pexels-photo-3526843.jpeg">
                 </div>
             </div>
 
@@ -125,7 +125,7 @@
                         <p>Join our Membership</p>
 
                         <a href="register.php" class="uk-button uk-button-large uk-button-secondary">Register</a>
-                         
+
                     </div>
 
                     <div class="uk-divider-vertical uk-child-width-1-2 uk-text-center" uk-grid>
